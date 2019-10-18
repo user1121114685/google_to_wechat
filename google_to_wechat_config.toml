@@ -1,0 +1,5 @@
+[google] # 谷歌账号配置
+    email="" # 谷歌邮箱 请输入到双引号内部
+    password="" # 谷歌账号密码 请输入到双引号内部
+[ServerChan]
+    sckey="" # server酱的key https://sc.ftqq.com/
